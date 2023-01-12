@@ -17,6 +17,6 @@ The word that has the * symbol after it can be corrected by another person if it
 It can also mean the person who's writing it is unsure if he's using the right word.
 
 
-![StoneTrench's GitHub stats](https://github-readme-stats.vercel.app/api?username=StoneTrench&show_icons=true&theme=radical)
+![StoneTrench's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=StoneTrench&show_icons=true&theme=radical)
 
-![StoneTrench's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=StoneTrench&show_icons=true&locale=en&layout=compact&theme=radical)
+![StoneTrench's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=StoneTrench&show_icons=true&locale=en&layout=compact&theme=radical)

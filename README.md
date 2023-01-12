@@ -19,4 +19,4 @@ It can also mean the person who's writing it is unsure if he's using the right w
 
 ![StoneTrench's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=StoneTrench&show_icons=true&theme=radical)
 
-![StoneTrench's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=StoneTrench&show_icons=true&locale=en&layout=compact&theme=radical)
+![StoneTrench's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=StoneTrench&show_icons=true&locale=en&layout=compact&theme=radical)
